@@ -2,7 +2,7 @@ Heint Thant Kyaw (Azrael)
 
 Final-year Networking Specialist based in Bangkok, focused on building strong foundations in  
 Computer Networking, Cybersecurity, Linux, and IoT systems. 
-I enjoy creating practical labs, solving technical problems, and learning how modern networks and  
+I enjoy creating practical labs, solving technical problems, and learning how modern networks and 
 security systems work in the real world.
 
 Skills & Technologies
@@ -64,5 +64,6 @@ Documentation of essential Linux commands and networking tools.
 
 Contact
 Email: heintthantkyaw124004@gmail.com
+
 GitHub: https://github.com/HTK820
 
