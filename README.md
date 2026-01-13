@@ -42,25 +42,30 @@ Hands-on labs built using Cisco Packet Tracer:
 - VLAN & Inter-VLAN Routing  
 - Multi-Router Setup  
 - ACL Security Rules  
-- EtherChannel Configuration  
-🔗 Repo: [Networking](https://github.com/HTK820/Networking)
+- EtherChannel Configuration
+  
+Repo: [Networking](https://github.com/HTK820/Networking)
 
 IoT Smart Gardening System
 Automated watering system using ESP32, moisture sensor, relay module, and Blynk IoT.
-🔗 Repo: [IOT](https://github.com/HTK820/IOT)
+
+Repo: [IOT](https://github.com/HTK820/IOT)
 
 ISO27001 Mini Case Study
 Risk assessment, controls mapping, and documentation practice based on ISO standards.
-🔗 Repo: [ISO27001](https://github.com/HTK820/ISO27001)
+
+Repo: [ISO27001](https://github.com/HTK820/ISO27001)
 
 Operating System Development Report**
 Research on modern OS implementation changes, scheduling, and virtualization.
-🔗 Repo: [OperatingSystem](https://github.com/HTK820/OperatingSystem)
+
+Repo: [OperatingSystem](https://github.com/HTK820/OperatingSystem)
 
 
 Linux Basics & Notes
 Documentation of essential Linux commands and networking tools.
-🔗 Repo: [Linux](https://github.com/HTK820/Linux)
+
+Repo: [Linux](https://github.com/HTK820/Linux)
 
 Contact
 Email: heintthantkyaw124004@gmail.com
